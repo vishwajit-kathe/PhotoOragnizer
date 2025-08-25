@@ -35,7 +35,7 @@ Destination Folder/
 
 ## Installation and Usage
 
-1.  Download the latest release files from the [Releases]([https://github.com/YourUsername/PhotoOrganizer/releases](https://github.com/vishwajit-kathe/PhotoOragnizer/releases)) page.
+1.  Download the latest release files from the [Releases](https://github.com/vishwajit-kathe/PhotoOragnizer/releases) page.
 2.  Extract all files into a single folder on your Windows computer.
 3.  Run the `PhotoOrganizerApp.exe` executable file.
 4.  Use the interface to select your **Source** and **Destination** folders, then start the organization process.
